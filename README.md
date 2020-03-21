@@ -1,4 +1,4 @@
-# Statutto <a href="https://apps.apple.com/it/app/id1502551398"><img src="https://lh3.googleusercontent.com/8mbGc4gAuQw8A0VvCG1VoF3Vk9IEno0Z0p4c0mUhew5qPwe3VMvhl_dgQGlQGNe5NgXAgWataVtTgVxRdg=w80"></a> <a href="https://play.google.com/store/apps/details?id=it.duepuntotre.statutto"><img src="https://lh3.googleusercontent.com/mxdkR4YgDDXlXWEY26d3PPQevzEPmK7zHQeoLezE-6NUCKtXi7k6R0MZbXW20bAdyEEfwDVoi29R1SNZew=w80"></a>
+# Statutto <a href="https://apps.apple.com/it/app/id1502551398"><img src="https://lh3.googleusercontent.com/8mbGc4gAuQw8A0VvCG1VoF3Vk9IEno0Z0p4c0mUhew5qPwe3VMvhl_dgQGlQGNe5NgXAgWataVtTgVxRdg=w85"></a> <a href="https://play.google.com/store/apps/details?id=it.duepuntotre.statutto"><img src="https://lh3.googleusercontent.com/mxdkR4YgDDXlXWEY26d3PPQevzEPmK7zHQeoLezE-6NUCKtXi7k6R0MZbXW20bAdyEEfwDVoi29R1SNZew=w85"></a>
 
 Statutto rappresenta un modo semplice e gratuito per consultare tutti i testi disponibili.
 
